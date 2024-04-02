@@ -52,17 +52,6 @@ The main functions employed for the use of the software are `FundFundMe` and `Wi
 ### FundFundMe
 
 A script that funds the last deployed contract address with a previously set value of 0.01 ether. It returns a console log stating that the operation went through successfully.
-
-
-
-## Instructions
-
-The main functions employed for the use of the software are FundFundMe and WithdrawFundMe
-
-FundFundMe:
-a script that does fund the last deployed contract address with a previously set value of 0.01 ether
-It does return a console log stating that the operation went through successfuly
-
 `
 forge script script/Interactions.s.sol:FundFundMe --rpc-url (argument) --private-key (argument) 
 --broadcast --verify -vvvv
