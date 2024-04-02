@@ -6,7 +6,7 @@ This project explores basic concepts from the Solidity language, building a cont
 
 __IMPORTANT: It is possible that the actual use of this program could cause many security issues, and even losses. Its sole purpose is educative__
 
- __Use it at your own risk and responsibility__
+ __Use (if ever) at your own risk and responsibility__
 
 ## Layout
 The software is composed of two main files in the src folder, `FundMe.sol` and `PriceConverter.sol`
@@ -32,7 +32,6 @@ and `HelperConfig.s.sol` that sets correctly the datafeed related addresses acco
 
 1. Download the repo using your terminal
 2. Navigate to the folder where the files are found (`/foundry-fund-me-f23/`) in it
-3. 
 
 ## Instructions
 ### Deploy the contract
