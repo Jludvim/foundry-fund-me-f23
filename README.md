@@ -31,7 +31,8 @@ and `HelperConfig.s.sol` that sets correctly the datafeed related addresses acco
 ## Installation
 
 1. Download the repo using your terminal
-2. Navigate to the folder where the files are found (`/foundry-fund-me-f23/`) in it
+`git clone Jludvim/foundry-fund-me-f23`
+3. Navigate to the folder where the files are found (`cd foundry-fund-me-f23`) in it
 
 ## Instructions
 ### Deploy the contract
